@@ -22,7 +22,7 @@ This is a list of the currently active projects for North Seattle's Open Source 
 - Validation / schema experience
 
 ## Security Project: x5092JSON *[New Project]*
-**GitHub Repository:** https://github.com/jcrowgey/x5092json
+**GitHub Repository:** https://github.com/jcrowgey/x5092json  
 **Description:** Learn more about X.509 certificates in the process of improving this library that takes raw certificates and outputs the related information in a JSON format.  
 **Impact:** Solves a common problem  
 **Applicable skill set:**  
