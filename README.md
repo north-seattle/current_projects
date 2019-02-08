@@ -21,6 +21,14 @@ This is a list of the currently active projects for North Seattle's Open Source 
 - Architecture
 - Validation / schema experience
 
+## Template Project: hackathon-starter
+**Git Repository:** https://github.com/sahat/hackathon-starter
+**Description:** A boilerplate for NodeJS web applications.  Hackathon Starter already has a user account management system, email and OAuth authentication, security features, template rendering, and integration with many APIs including Facebook, Foursquare, Last.fm, Tumblr, Twitter, Stripe, Twilio, LinkedIn and more.  This well-known project with ~ 1000 clones month clones and +25K Github stars, still has room for many improvements and new features, some of which are already listed as Github issues.  Join one of the maintainers of the project, ramp up on its inner workings, and contribute to the greater hackathon ecosystem.
+**Impact:** Lower the barrier for doing other hackathon projects.
+**Applicable skill sets:**
+  - NodeJS
+  - Web Development (HTML, CSS)
+
 ## Security Project: x5092JSON *[New Project]*
 **GitHub Repository:** https://github.com/jcrowgey/x5092json  
 **Description:** Learn more about X.509 certificates in the process of improving this library that takes raw certificates and outputs the related information in a JSON format.  
